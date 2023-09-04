@@ -5,7 +5,7 @@ import logging
 # level=logging.DEBUG 、INFO 、WARNING、ERROR、CRITICAL
 def log_testing():
     # 此处进行Logging.basicConfig() 设置，后面设置无效
-    logging.basicConfig(level=logging.ERROR)
+    logging.basicConfig(level=logging.ERROR)  # 将level以上级别的日志输出，如不设置，默认为WARNING
     logging.debug('debug，用来打印一些调试信息，级别最低')
     logging.info('info，用来打印一些正常的操作信息')
     logging.warning('waring，用来用来打印警告信息')
