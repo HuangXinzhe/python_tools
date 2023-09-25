@@ -2,3 +2,5 @@
 .DS_Store
 */.DS_Store
 .vscode
+/logging_tutorial/logging_offical_tutorial/example.log
+/logging_tutorial/logging_unofficial_tutorial/log.txt
