@@ -4,3 +4,4 @@
 .vscode
 /logging_tutorial/logging_offical_tutorial/example.log
 /logging_tutorial/logging_unofficial_tutorial/log.txt
+*/__pycache__
